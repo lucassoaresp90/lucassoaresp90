@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas Soares!! 
+## Olá eu sou o Lucas Soares!! :smile::v:
 <div align="center">
   <a href="https://github.com/lucassoaresp90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassoaresp90&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
